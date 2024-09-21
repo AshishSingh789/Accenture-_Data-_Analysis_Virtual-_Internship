@@ -61,6 +61,7 @@ In this task, we had to present the PowerPoint presentation we created in Task 3
 
 
 
+![Screenshot 2024-09-22 023334](https://github.com/user-attachments/assets/1d595fa0-4e64-43a0-be65-6a6331522bf6)
 
 
 
