@@ -2,11 +2,11 @@
 Platform: Forage
 Date: September 2024
 
-*Overview
+**Overview**
 
 This repository showcases my work from the Accenture Data Analytics and Visualization Job Simulation, completed in September 2024. The simulation involved working as a Data Analyst for a hypothetical social media client. I cleaned, modeled, and analyzed 7 datasets to uncover content trends, which helped inform strategic business decisions. My work included preparing a PowerPoint deck and a video presentation to communicate key insights to both the client and internal stakeholders.
 
-Key Skills Developed
+**Key Skills Developed**
 
 
 Communication: Presented complex findings in a clear, client-focused manner.
@@ -31,7 +31,7 @@ Strategy: Provided recommendations based on data-driven findings.
 
 Teamwork: Simulated collaboration in a project team environment.
 
-Simulation Highlights
+**Simulation Highlights**
 
 Cleaned and analyzed 7 datasets to uncover trends in social media content.
 
@@ -39,7 +39,7 @@ Created a PowerPoint deck and video presentation to communicate key insights.
 
 Provided strategic recommendations based on data insights to inform decision-making.
 
-How This Experience Prepares Me for a Role at Accenture
+**How This Experience Prepares Me for a Role at Accenture**
 
 Participating in this job simulation gave me hands-on experience with data analytics and visualization in a realistic context. I enjoyed cleaning, modeling, and analyzing data, as well as presenting insights in a meaningful way. This experience made me even more excited to contribute to a dynamic team at Accenture, where I can apply these skills to real-world projects.
 
