@@ -53,13 +53,15 @@ There were CSV files that needed to be cleaned using either Excel or SQL, depend
 
 
 
-
-
-[Accenture  certificate.pdf](https://github.com/user-attachments/files/17085706/Accenture.certificate.pdf)
-
-
 Task 3
 The third task was to create a PowerPoint presentation based on the analysis.
 
 Task 4
-In this task, we had to present the PowerPoint presentation we created in Task 3 by making our own video explaining the content of the presentation.
+In this task, we had to present the PowerPoint presentation we created in Task 3 by making our video explaining the content of the presentation.
+
+
+
+
+
+
+
