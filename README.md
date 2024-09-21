@@ -51,6 +51,13 @@ This was an MCQ (Multiple Choice Question) task, and it was quite easy to solve.
 Task 2
 There were CSV files that needed to be cleaned using either Excel or SQL, depending on which tool was easier to use. I chose SQL because, in the end, we needed to concatenate all the tables into one, and it was simpler for me to do that with SQL. However, Excel could also be used for this task.
 
+
+
+
+
+[Accenture  certificate.pdf](https://github.com/user-attachments/files/17085706/Accenture.certificate.pdf)
+
+
 Task 3
 The third task was to create a PowerPoint presentation based on the analysis.
 
